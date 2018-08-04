@@ -1,2 +1,2 @@
 # game-js
-Игра на чистом javascript 
+Игра на чистом javascript с помощью canvas
